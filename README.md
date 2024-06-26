@@ -1,4 +1,4 @@
-### Sobre Mim: 
+# Sobre Mim: 
 
 <div>
 <ul>
@@ -19,7 +19,7 @@
     <img align = "center" alt = "PYTHON" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" width = "40"/>
 </div>
 
-### 📊 Estatísticas GitHub
+### 📊Estatísticas GitHub
 
 ![Antonio GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonioMrts&show_icons=true&theme=dracula)
 
